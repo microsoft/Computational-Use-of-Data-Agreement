@@ -1,7 +1,6 @@
-# Computational Use of Data Agreement v0.1
-# Annotated-Discussion-DRAFT-20190722
+# Computational Use of Data Agreement v1.0, Annotated
 
-This is the Computational Use of Data Agreement, Version 0.1 (the “C-UDA”). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
+This is the Computational Use of Data Agreement, Version 1.0 (the “C-UDA”). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
 
    **Comment** _The C-UDA was developed for use by a Data Provider that owns or controls Data, or has assembled Data from lawfully accessed, publicly available sources, and wishes to limit the use for computational purposes to be consistent with copyright laws. The C-UDA is not intended for a use of Data that may include personal data. To be precise, it is not appropriate for data sets that include any data that might include materials subject to privacy laws such as the GDPR or HIPAA._
 
@@ -14,6 +13,10 @@ This is the Computational Use of Data Agreement, Version 0.1 (the “C-UDA”). 
     1.2. Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the C-UDA.
 
 	  **Comment**: _This is a promise by the Data Provider not to sue the user so long as the user complies with C-UDA’s requirements. It doesn't allow a Data Provider to terminate a permitted use of the Data, but it does allow the Data Provider to bring an  action to enforce the C-UDA’s terms._
+
+    1.3 This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+
+    **Comment**: _This provision clarifies that the C-UDA is not intended to restrict the use, modification, or distribution of any materials within the Data that are in the public domain. Such materials can be used, modified, or distributed without needing to meet the requirements or obligations of this Agreement. Similarly, the Agreement is not intended to restrict the use, modification distribution of any materials within the Data if any applicable legal exception or limitation (e.g., fair use) would otherwise permit their use, modification, or distribution._
 
 2. **Restrictions**
 
