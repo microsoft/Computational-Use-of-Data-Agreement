@@ -14,7 +14,7 @@ This is the Computational Use of Data Agreement, Version 1.0 (the “C-UDA”). 
 
     2.1  You agree that you will use the Data solely for Computational Use.
 
-	  2.2 The C-UDA does not impose any restriction with respect to the use, modification, or distribution of Outputs.
+	  2.2 The C-UDA does not impose any restriction with respect to the use, modification, or distribution of Results.
 
 3.	**Redistribution of Data**
 
@@ -30,18 +30,18 @@ This is the Computational Use of Data Agreement, Version 1.0 (the “C-UDA”). 
 
     4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
-    4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR OUTPUTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 5.	**Definitions**
 
     5.1. “Computational Use” means activities necessary to enable the use of Data (alone or along with other material) for analysis by a computer.
 
-    5.2.“Data” means the material you receive under the C-UDA in modified or unmodified form, but not including Output.
+    5.2.“Data” means the material you receive under the C-UDA in modified or unmodified form, but not including Results.
 
     5.3. “Data Provider” means the source from which you receive the Data and with whom you enter into the C-UDA.
 
     5.4. “Downstream Recipient” means any person or persons who receives the Data directly or indirectly from you in accordance with the C-UDA.
 
-    5.5. “Output” means the outcomes or results that you obtain from your use of Data that do not include more than a de minimis portion of the Data on which the use is based. Output may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Output.
+    5.5. “Result” means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
 
     5.6. “Upstream Data Providers” means the source or sources from which the Data Provider directly or indirectly received, under the terms of the C-UDA, material that is included in the Data.

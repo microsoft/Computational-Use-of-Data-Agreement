@@ -12,7 +12,7 @@ The C-UDA is a simple agreement that allows the data holder to make data availab
 
 *	It is intended for scenarios where the data distributor may desire, or is required, to restrict the use of data sets, including scenarios where the data set contains material not owned or controlled by the data distributor.
 *	It addresses data that is assembled from lawfully accessed, publicly available sources to be used for computational analysis.
-*	Redistribution of the Output from use of the data under the agreement—including results of analysis of the data or ML models trained with the data—carries no obligations.
+*	Redistribution of the Results from use of the data under the agreement—including results of analysis of the data or ML models trained with the data—carries no obligations.
 *	Redistribution of data under the agreement—modified or unmodified—requires use of the C-UDA.
 *	The redistribution obligations are designed to encourage sharing by limiting the liability of the data provider and ensuring that those downstream can identify where the data came from.
 
